@@ -1,0 +1,21 @@
+docs/reference/configuration/injector.md
+  s_d2e1af1ce5ff84::t_4c69cca39eb78f 1-76
+sidebars/docs.js
+  s_d2e1af1ce5ff84::t_1a9b625a272193 146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4b50aeea8e43542aae06e161cd1bbbf29c978543",
+  "prompts": {},
+  "sessions": {
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
